@@ -19,10 +19,14 @@ tapes, on Director and a MacLisp interpreter rebuilt for the revival, in your br
 - **Tell Ani a new story**: a language model (Claude, ChatGPT or Gemini with your own
   key, or Gemini Nano built into Chrome) puts it into Ken's notation, using only the
   words Ani knows, and Ani plans and films it.
+- **Criticize the film and teach Ani**: say what's wrong (with buttons, or in plain
+  English) and Ani remakes it heeding you; add to what Ani knows with Teach Ani.
+- **Two age settings**: 12+ shows everything; 6–11 says it in everyday words. Read
+  aloud and Talk to Ani are there too, off until turned on.
 - **Ani as in 1978, or with the revival's repairs**: the films you make are made by Ani
-  as Ken left her, unless you switch on the revival's repairs (MEND). Where Ani as in
-  1978 stops on a story Ken never gave her (a word she doesn't know, a pair of characters
-  with no relationship, a way of moving she gave up on, ...), the page says why and offers
+  as Ken left it, unless you switch on the revival's repairs (MEND). Where Ani as in
+  1978 stops on a story Ken never gave it (a word it doesn't know, a pair of characters
+  with no relationship, a way of moving it gave up on, ...), the page says why and offers
   to make it again with the repairs; the glass box then says, one plain sentence each,
   what each repair did, with a link to its code. The repairs are the revival's Lisp, in
   Ken's idioms, in files of their own, and change nothing in his Cinderella, which is
@@ -41,3 +45,11 @@ an HTML artifact.
 The pages here are built by the revival project's `tools/build-site.mjs`; each is one
 self-contained file. They carry Ani's and Director's code and the Cinderella film
 description, nothing else from the tapes.
+
+Guides: [for students](https://toontalk.github.io/ani/students.html),
+[for teachers and parents](https://toontalk.github.io/ani/teachers.html), and
+[how this was made](https://toontalk.github.io/ani/making-of.html).
+
+## License
+
+MIT, see [LICENSE](LICENSE).
