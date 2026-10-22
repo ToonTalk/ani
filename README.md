@@ -23,14 +23,16 @@ tapes, on Director and a MacLisp interpreter rebuilt for the revival, in your br
   English) and Ani remakes it heeding you; add to what Ani knows with Teach Ani.
 - **Two age settings**: 12+ shows everything; 6–11 says it in everyday words. Read
   aloud and Talk to Ani are there too, off until turned on.
-- **Ani as in 1978, or with the revival's repairs**: the films you make are made by Ani
-  as Ken left it, unless you switch on the revival's repairs (MEND). Where Ani as in
-  1978 stops on a story Ken never gave it (a word it doesn't know, a pair of characters
-  with no relationship, a way of moving it gave up on, ...), the page says why and offers
-  to make it again with the repairs; the glass box then says, one plain sentence each,
-  what each repair did, with a link to its code. The repairs are the revival's Lisp, in
-  Ken's idioms, in files of their own, and change nothing in his Cinderella, which is
-  always shown as it was made.
+- **The revival's extensions, or Ani as in 1978**: the films you make are made with the
+  revival's extensions (repairs for new stories, knowledge Ken could have added, Ani
+  choosing how its characters look, characters who change, and more), unless you choose
+  "Ani as in 1978 (Ken's program, unchanged)" on the switch under the Make buttons. Where
+  Ani as in 1978 stops on a story Ken never gave it (a word it doesn't know, a pair of
+  characters with no relationship, a way of moving it gave up on, ...), the page says why
+  and offers to make it again with the extensions; the glass box then says, one plain
+  sentence each, what each repair did, with a link to its code. The extensions are the
+  revival's Lisp, in Ken's idioms, in files of their own; Ken's own Cinderella is always
+  shown as it was made.
 - **Save films** as videos, or as film files that open here again with all of Ani's
   reasons.
 - **Read the code**: [Ani's Code](https://toontalk.github.io/ani/source.html), every
